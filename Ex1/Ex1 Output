@@ -1,0 +1,12 @@
+ *** OldSensorDevice Scenario: BEGIN ***
+OldTempSensor receives temperature: 23.0
+OldTempSensor receives temperature: 23.0
+OldTempSensor receives temperature: 24.0
+OldTempSensor receives temperature: 25.0
+OldTempSensor receives temperature: 25.0
+OldTempSensor receives temperature: 26.0
+OldTempSensor receives temperature: 27.0
+*** OldSensorDevice: END ***
+Last reading sent from device was 27
+
+Process finished with exit code 0
