@@ -67,7 +67,7 @@ public class OldTempSensorAdapter implements TemperatureSensor {
 	public void newTemperature(int temp) {
 		// TODO Auto-generated method stub
 		this.oldTempsensor.newTemperature(temp);
-
+		this.temperature = oldTempsensor.getTemperature();
 	}
 
 }
